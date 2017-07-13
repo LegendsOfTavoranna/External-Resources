@@ -1,0 +1,10 @@
+<?xml version="1.0"?> 
+<MQBuildConfg>
+  <item name="login.user" value="" />
+  <item name="login.auto" value="true" />
+  <item name="asset.log" value="false" />
+  <item name="asset.autoload" value="true" />
+  <item name="asset.disableversioning" value="false" />
+
+ 
+</MQBuildConfg>

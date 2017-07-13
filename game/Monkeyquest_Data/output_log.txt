@@ -1,0 +1,107 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 10.18.15.4274]
+    Renderer: Intel(R) HD Graphics 5500
+    Vendor:   Intel
+    VRAM:     1641 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Initialize engine version: 3.5.6f4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\A2mCore.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\A2mCore.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Crisp.AutoSuggest.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Crisp.AutoSuggest.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Crisp.AutoSuggest.Interfaces.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Crisp.AutoSuggest.Interfaces.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Mono.Security.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Mono.Security.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\MQXMPP.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\MQXMPP.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\NGGManager.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\NGGManager.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\SmartFoxClient.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\SmartFoxClient.dll into Unity Child Domain
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Thrift.dll (this message is harmless)
+Loading C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\Thrift.dll into Unity Child Domain
+- Completed reload, in  0.347 seconds
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\Monkeyquest_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Mono/MonoBehaviour.cpp Line: 1592)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Mono/MonoBehaviour.cpp Line: 1592)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Mono/MonoBehaviour.cpp Line: 1592)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Mono/MonoBehaviour.cpp Line: 1592)
+
+Loading standalone configuration
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+LoadLocalEditorConfig
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Relative configuration file: C:/Users/Shankar/Pictures/FlynnXD/Monkey Quest/Monkey Quest/game/Monkeyquest_Data/../LocalBuildConfig.xml
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+LoadLocalEditorConfig File.Exists:C:\Users\Shankar\Pictures\FlynnXD\Monkey Quest\Monkey Quest\game\LocalBuildConfig.xml)
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2151. Operation took 10.325281 ms.
+External Call: try {    if( typeof(MQStats.applicationStarted) == "function" )    {        GetUnity().SendMessage("Omniture", "OnInitializationSuccess", null);   } } catch(e) {};
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineApplication.cpp Line: 318)
+
+GameInit=================== User is ================
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Bundles URL=http://sblx-outbox-05/Client/Bundles
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+You are trying to load data from a www stream which had the following error when downloading.
+Could not resolve host: chat.monkeyquest.com; Host not found, try again
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Export/WWW.cpp Line: 981)
+
+You are trying to load data from a www stream which had the following error when downloading.
+Could not resolve host: chat.monkeyquest.com; Host not found, try again
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Export/WWW.cpp Line: 981)
+
+======================== SceneData.OnDisable =====================================
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
